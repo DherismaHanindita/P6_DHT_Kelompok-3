@@ -10,7 +10,8 @@ https://github.com/DiltaFebiana/vs-program-DHT-P6-Kelompok3.git
 
 ## Praktikum Project Wokwi
 1. Silakan masuk ke Wokwi - Buat project baru - Pilih boardnya ESP32
-2. rangkainnya seperti berikut :
+2. rangkainnya
+ seperti berikut :
 <img src = 1.jpeg>
 
 <img src = 2.jpeg>
@@ -72,3 +73,5 @@ Simulasi untuk suhu Panas temperatur >=15'C && <20'C
 
 3. Skematik dari simulasi
 <img src = 23.jpeg>
+
+## Link Video : https://drive.google.com/file/d/1nwPgHUnN2a1tdSLMZ3qdg7j0jhAkWxUE/view?usp=sharing
