@@ -72,6 +72,7 @@ Simulasi untuk suhu Panas temperatur >=15'C && <20'C
 <img src = 22.jpeg>
 
 3. Skematik dari simulasi
-<img src = 23.jpeg>
+<img src = 23.jpeg> .
 
-## Link Video : https://drive.google.com/file/d/1nwPgHUnN2a1tdSLMZ3qdg7j0jhAkWxUE/view?usp=sharing
+## Link Video : https://drive.google.com/file/d/1nwPgHUnN2a1tdSLMZ3qdg7j0jhAkWxUE/view?usp=sharing 
+
